@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Main_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/LeftRight_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/UpDown_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_LeftRight_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_UpDown_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_Jump.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_LeftRight_Direction.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_UpDown_Direction.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_ForwardBack_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_Forward_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_Backwards_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_Left_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_Right_Movement.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Mapping_Context.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Player_Character.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/BP_Player.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/IA_Look.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/GM_Coalesce.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Player/BP_Player.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Player/GM_Coalesce.uasset",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Harrys_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/James/James_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/James/Kevins_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Kevin/Kevins_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Piper/Pipers_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Piper/Sams_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Piper/Shanans_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Sam/Sams_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shanan/Shanans_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap",
+				"C:/Users/piper/Documents/Uni/DISC380_Coalesce/Coalesce/Content/Individual_Work/Yumi/Yumis_Map.umap"
+			]
+		}
+	]
+}
