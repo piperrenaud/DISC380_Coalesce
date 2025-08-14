@@ -1932,3 +1932,1275 @@ Sampler Limit: 32
 [2025.08.14-06.44.38:918][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.14-06.44.38:918][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13841.894531, Update Interval: 327.323822
 [2025.08.14-06.46.17:175][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2025.08.14-06.50.40:071][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14203.353516
+[2025.08.14-06.50.41:071][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-06.50.41:071][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14204.020508, Update Interval: 355.510132
+[2025.08.14-06.50.54:072][763]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 7c7...d13
+[2025.08.14-06.50.54:073][763]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.28 RefreshExpires: 1.547e+07
+[2025.08.14-06.50.55:074][766]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 7c7...d13 Access[Expires: 2025.08.14-08.50.52 Remaining: 7200.37] Refresh[Expires: 2026-02-09T06:52:04.549Z Remaining: 15465672.55] State: Valid
+[2025.08.14-06.54.56:540][717]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.08.14-06.54.56:606][717]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.08.14-06.54.56:624][718]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.08.14-06.55.06:707][454]LogContentBrowser: Attempting asset rename: NewMaterial -> M_EmmisiveLights
+[2025.08.14-06.55.06:710][454]LogContentBrowser: End creating deferred item NewMaterial
+[2025.08.14-06.55.08:085][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.55.08:117][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights] ([1] browsable assets)...
+[2025.08.14-06.55.08:167][553]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.M_EmmisiveLights]
+[2025.08.14-06.55.08:167][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights]
+[2025.08.14-06.55.08:169][553]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights
+[2025.08.14-06.55.08:169][553]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_EmmisiveLights2752AF6549205953A095D2876F848CD2.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.uasset'
+[2025.08.14-06.55.08:182][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.252 ms (total: 433.190 ms)
+[2025.08.14-06.55.08:220][553]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.55.08:220][553]LogContentValidation: Enabled validators:
+[2025.08.14-06.55.08:220][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.55.08:220][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.55.08:220][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.55.08:220][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.55.08:220][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.55.08:220][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.55.08:220][553]AssetCheck: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights Validating asset
+[2025.08.14-06.55.09:544][637]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.M_EmmisiveLights
+[2025.08.14-06.55.09:552][637]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.14-06.55.10:173][637]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.14-06.55.10:173][637]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.10:173][637]MaterialEditorStats: Shader Count: 0
+[2025.08.14-06.55.10:173][637]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.08.14-06.55.10:279][639]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.08.14-06.55.10:280][639]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.08.14-06.55.10:280][639]MaterialEditorStats: Texture samplers: 1/16
+[2025.08.14-06.55.10:280][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.10:280][639]MaterialEditorStats: Shader Count: 5
+[2025.08.14-06.55.10:280][639]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.08.14-06.55.29:069][ 37]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.55.29:069][ 37]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_FluorescentLightGlass'"'
+[2025.08.14-06.55.29:071][ 37]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_2.MaterialExpressionScalarParameter_0'")'
+[2025.08.14-06.55.29:071][ 37]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_3.MaterialExpressionVectorParameter_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2025.08.14-06.55.29:071][ 37]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_FluorescentLightGlass'"'
+[2025.08.14-06.55.29:071][ 37]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_FluorescentLightGlass'"'
+[2025.08.14-06.55.29:072][ 37]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_FluorescentLightGlass'"'
+[2025.08.14-06.55.29:073][ 37]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_FluorescentLightGlass'"'
+[2025.08.14-06.55.29:105][ 37]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.14-06.55.29:105][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.29:105][ 37]MaterialEditorStats: Shader Count: 0
+[2025.08.14-06.55.29:105][ 37]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.08.14-06.55.29:193][ 39]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.08.14-06.55.29:193][ 39]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.08.14-06.55.29:193][ 39]MaterialEditorStats: Texture samplers: 1/16
+[2025.08.14-06.55.29:193][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.29:193][ 39]MaterialEditorStats: Shader Count: 5
+[2025.08.14-06.55.29:193][ 39]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.08.14-06.55.33:373][345]LogDerivedDataCache: C:/Users/Shazz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.14-06.55.33:419][348]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.14-06.55.33:419][348]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.33:419][348]MaterialEditorStats: Shader Count: 0
+[2025.08.14-06.55.33:419][348]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.08.14-06.55.34:532][398]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.08.14-06.55.34:532][398]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.14-06.55.34:532][398]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.34:532][398]MaterialEditorStats: Shader Count: 3
+[2025.08.14-06.55.34:532][398]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.08.14-06.55.34:725][406]MaterialEditorStats: Base pass shader: 170 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.08.14-06.55.34:725][406]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.08.14-06.55.34:725][406]MaterialEditorStats: Texture samplers: 1/16
+[2025.08.14-06.55.34:725][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.34:725][406]MaterialEditorStats: Shader Count: 4
+[2025.08.14-06.55.34:725][406]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.08.14-06.55.36:666][532]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.14-06.55.36:666][532]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.36:666][532]MaterialEditorStats: Shader Count: 0
+[2025.08.14-06.55.36:666][532]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.08.14-06.55.36:919][535]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.08.14-06.55.36:919][535]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.08.14-06.55.36:919][535]MaterialEditorStats: Texture samplers: 1/16
+[2025.08.14-06.55.36:919][535]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-06.55.36:919][535]MaterialEditorStats: Shader Count: 5
+[2025.08.14-06.55.36:919][535]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.08.14-06.55.40:919][805]LogMaterialEditor: Saving and Compiling material M_EmmisiveLights
+[2025.08.14-06.55.41:042][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.14-06.55.41:194][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.14-06.55.41:229][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.55.41:261][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights] ([1] browsable assets)...
+[2025.08.14-06.55.41:349][805]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.M_EmmisiveLights]
+[2025.08.14-06.55.41:349][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights]
+[2025.08.14-06.55.41:351][805]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights
+[2025.08.14-06.55.41:352][805]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_EmmisiveLights9AA14205466D2F6877294383BF05292C.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.uasset'
+[2025.08.14-06.55.41:363][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.487 ms (total: 566.678 ms)
+[2025.08.14-06.55.41:395][805]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.55.41:395][805]LogContentValidation: Enabled validators:
+[2025.08.14-06.55.41:395][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.55.41:395][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.55.41:395][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.55.41:395][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.55.41:395][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.55.41:395][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.55.41:395][805]AssetCheck: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights Validating asset
+[2025.08.14-06.55.51:889][611]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.14-06.55.51:897][611]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.14-06.55.51:907][612]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.14-06.55.54:753][904]LogContentBrowser: Attempting asset rename: NewFolder -> Lights
+[2025.08.14-06.55.54:754][904]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.14-06.56.05:804][361]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.14-06.56.05:812][361]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.14-06.56.05:870][363]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.14-06.56.10:587][835]LogContentBrowser: Attempting asset rename: NewFolder -> LongLight
+[2025.08.14-06.56.10:588][835]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.14-06.56.13:279][ 84]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.14-06.56.13:288][ 84]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.14-06.56.13:298][ 85]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.14-06.56.22:851][ 55]LogContentBrowser: Attempting asset rename: NewFolder -> ShortLight_Roof
+[2025.08.14-06.56.22:852][ 55]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.14-06.56.31:505][880]LogContentBrowser: Attempting asset rename: LongLight -> LongLight_Roof
+[2025.08.14-06.56.32:998][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.56.33:083][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.08.14-06.56.33:095][ 22]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-06.56.33:096][ 22]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_Map7429E4EC41EA4B3FFE674892CA6C5AA9.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-06.56.33:115][ 22]LogFileHelpers: Saving map 'Shannons_Map' took 0.084
+[2025.08.14-06.56.33:125][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.241 ms (total: 692.919 ms)
+[2025.08.14-06.56.33:160][ 22]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.56.33:161][ 22]LogContentValidation: Enabled validators:
+[2025.08.14-06.56.33:161][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.56.33:161][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.56.33:161][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.56.33:161][ 22]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.56.33:161][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.56.33:161][ 22]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.56.33:161][ 22]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-06.56.41:081][227]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.56.41:113][227]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/LongLightFitting.fbx]
+[2025.08.14-06.56.44:188][227]LogSlate: Window 'Import Content' being destroyed
+[2025.08.14-06.56.44:223][227]LogInterchangeEngine: [Pending] Importing
+[2025.08.14-06.56.44:280][228]LogStreaming: Display: FlushAsyncLoading(506): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.56.44:311][229]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.56.44:353][231]LogStaticMesh: Display: Building static mesh LongLightFitting (Required Memory Estimate: 1.057274 MB)...
+[2025.08.14-06.56.44:360][231]LogStaticMesh: Adjacency [0.00s], tris: 684, UVs 1
+[2025.08.14-06.56.44:363][231]LogStaticMesh: Clustering [0.00s]. Ratio: 1.666667
+[2025.08.14-06.56.44:363][231]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.56.44:395][232]LogStaticMesh: Reduce [0.03s]
+[2025.08.14-06.56.44:405][232]LogStaticMesh: Fallback [0.01s], num tris: 532
+[2025.08.14-06.56.44:405][232]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.56.44:405][232]LogStaticMesh:   Input: 16 Clusters, 1438 Triangles and 1085 Vertices
+[2025.08.14-06.56.44:405][232]LogStaticMesh:   Output without splits: 16 Clusters, 1438 Triangles and 1122 Vertices
+[2025.08.14-06.56.44:405][232]LogStaticMesh:   Output with splits: 16 Clusters, 1438 Triangles and 1122 Vertices
+[2025.08.14-06.56.44:405][232]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.56.44:405][232]LogStaticMesh: WritePages:
+[2025.08.14-06.56.44:405][232]LogStaticMesh:   Root: GPU size: 16816 bytes. 1 Pages. 16816.000 bytes per page (51.318% utilization).
+[2025.08.14-06.56.44:405][232]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.56.44:405][232]LogStaticMesh:   Page data disk size: 13732 bytes. Fixup data size: 72 bytes.
+[2025.08.14-06.56.44:405][232]LogStaticMesh:   Total GPU size: 16816 bytes, Total disk size: 13804 bytes.
+[2025.08.14-06.56.44:405][232]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.56.44:405][232]LogStaticMesh: Nanite build [0.05s]
+
+[2025.08.14-06.56.44:409][232]LogStaticMesh: Built static mesh [0.06s] /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting.LongLightFitting
+[2025.08.14-06.56.44:413][232]LogStaticMesh: Warning: LongLightFitting has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.08.14-06.56.44:413][232]LogStaticMesh: Warning: LongLightFitting has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.08.14-06.56.44:653][234]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/LongLightFitting.fbx]
+[2025.08.14-06.56.44:653][234]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.08.14-06.56.44:653][234]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.08.14-06.56.44:653][234]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/LongLight.fbx]
+[2025.08.14-06.56.44:715][236]LogMaterial: Display: Material /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Material.Material needed to have new flag set bUsedWithNanite !
+[2025.08.14-06.56.44:796][238]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.56.44:957][240]LogStaticMesh: Display: Building static mesh LongLight (Required Memory Estimate: 1.091547 MB)...
+[2025.08.14-06.56.44:962][240]LogStaticMesh: Adjacency [0.00s], tris: 708, UVs 1
+[2025.08.14-06.56.44:963][240]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.08.14-06.56.44:963][240]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.56.44:995][241]LogStaticMesh: Reduce [0.03s]
+[2025.08.14-06.56.45:005][242]LogStaticMesh: Fallback [0.01s], num tris: 576
+[2025.08.14-06.56.45:005][242]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.56.45:005][242]LogStaticMesh:   Input: 12 Clusters, 1464 Triangles and 1068 Vertices
+[2025.08.14-06.56.45:005][242]LogStaticMesh:   Output without splits: 12 Clusters, 1464 Triangles and 1125 Vertices
+[2025.08.14-06.56.45:005][242]LogStaticMesh:   Output with splits: 12 Clusters, 1464 Triangles and 1125 Vertices
+[2025.08.14-06.56.45:005][242]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.56.45:006][242]LogStaticMesh: WritePages:
+[2025.08.14-06.56.45:006][242]LogStaticMesh:   Root: GPU size: 16524 bytes. 1 Pages. 16524.000 bytes per page (50.427% utilization).
+[2025.08.14-06.56.45:006][242]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.56.45:006][242]LogStaticMesh:   Page data disk size: 12656 bytes. Fixup data size: 72 bytes.
+[2025.08.14-06.56.45:006][242]LogStaticMesh:   Total GPU size: 16524 bytes, Total disk size: 12728 bytes.
+[2025.08.14-06.56.45:006][242]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.56.45:006][242]LogStaticMesh: Nanite build [0.04s]
+
+[2025.08.14-06.56.45:009][242]LogStaticMesh: Built static mesh [0.05s] /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight.LongLight
+[2025.08.14-06.56.45:014][242]LogStaticMesh: Warning: LongLight has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.08.14-06.56.45:014][242]LogStaticMesh: Warning: LongLight has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.08.14-06.56.45:278][244]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/LongLight.fbx]
+[2025.08.14-06.56.45:278][244]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.08.14-06.56.45:279][244]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.08.14-06.56.45:279][244]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/LongLightBlub_L.fbx]
+[2025.08.14-06.56.45:424][248]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.56.45:451][249]LogStreaming: Display: FlushAsyncLoading(510): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Display: Building static mesh LongLightBlub_L (Required Memory Estimate: 0.027337 MB)...
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Reduce [0.00s]
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.08.14-06.56.45:593][251]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.56.45:593][251]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.56.45:593][251]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.56.45:593][251]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.56.45:593][251]LogStaticMesh: WritePages:
+[2025.08.14-06.56.45:593][251]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2025.08.14-06.56.45:593][251]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.56.45:593][251]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2025.08.14-06.56.45:593][251]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 496 bytes.
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.56.45:593][251]LogStaticMesh: Nanite build [0.00s]
+
+[2025.08.14-06.56.45:594][251]LogStaticMesh: Built static mesh [0.00s] /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L.LongLightBlub_L
+[2025.08.14-06.56.45:636][252]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/LongLightBlub_L.fbx]
+[2025.08.14-06.56.45:636][252]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.08.14-06.56.45:636][252]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.08.14-06.56.45:636][252]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/LongLightBlub_R.fbx]
+[2025.08.14-06.56.45:829][256]LogStreaming: Display: FlushAsyncLoading(511): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.56.45:832][257]LogMaterial: Display: Material /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass.Glass needed to have new flag set bUsedWithNanite !
+[2025.08.14-06.56.45:871][258]LogStaticMesh: Display: Building static mesh LongLightBlub_R (Required Memory Estimate: 0.027337 MB)...
+[2025.08.14-06.56.45:871][258]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Reduce [0.00s]
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.08.14-06.56.45:872][258]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.56.45:872][258]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.56.45:872][258]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.56.45:872][258]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.56.45:872][258]LogStaticMesh: WritePages:
+[2025.08.14-06.56.45:872][258]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2025.08.14-06.56.45:872][258]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.56.45:872][258]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2025.08.14-06.56.45:872][258]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 496 bytes.
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Nanite build [0.00s]
+
+[2025.08.14-06.56.45:872][258]LogStaticMesh: Built static mesh [0.00s] /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R.LongLightBlub_R
+[2025.08.14-06.56.45:905][258]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/LongLightBlub_R.fbx]
+[2025.08.14-06.56.45:905][258]Interchange: Warning: [C:/Users/Shazz/Downloads/LongLightFitting.fbx : 'LongLightFitting', StaticMesh] No smoothing group information was found for this mesh 'Cylinder' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.56.45:905][258]Interchange: Warning: [C:/Users/Shazz/Downloads/LongLight.fbx : 'LongLight', StaticMesh] No smoothing group information was found for this mesh 'Cylinder' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.56.45:905][258]Interchange: Warning: [C:/Users/Shazz/Downloads/LongLightBlub_L.fbx : 'LongLightBlub_L', StaticMesh] No smoothing group information was found for this mesh 'Cylinder_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.56.45:905][258]Interchange: Warning: [C:/Users/Shazz/Downloads/LongLightBlub_R.fbx : 'LongLightBlub_R', StaticMesh] No smoothing group information was found for this mesh 'Cylinder_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.56.45:938][258]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.14-06.56.45:939][258]LogInterchangeEngine: [Success] Import Done
+[2025.08.14-06.56.47:160][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.56.47:247][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass] ([1] browsable assets)...
+[2025.08.14-06.56.47:255][339]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass.Glass]
+[2025.08.14-06.56.47:255][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass]
+[2025.08.14-06.56.47:258][339]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass
+[2025.08.14-06.56.47:258][339]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/GlassA06F5C864DFB4A63088824B044D77C60.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass.uasset'
+[2025.08.14-06.56.47:262][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight] ([1] browsable assets)...
+[2025.08.14-06.56.47:271][339]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight.LongLight]
+[2025.08.14-06.56.47:271][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight]
+[2025.08.14-06.56.47:276][339]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight
+[2025.08.14-06.56.47:277][339]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLight28F783F54E8907950536368334C87E8C.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight.uasset'
+[2025.08.14-06.56.47:280][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L] ([1] browsable assets)...
+[2025.08.14-06.56.47:288][339]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L.LongLightBlub_L]
+[2025.08.14-06.56.47:288][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L]
+[2025.08.14-06.56.47:291][339]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L
+[2025.08.14-06.56.47:291][339]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightBlub_LA69C82B248F2A10089CB8DB8F44622D8.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L.uasset'
+[2025.08.14-06.56.47:292][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R] ([1] browsable assets)...
+[2025.08.14-06.56.47:299][339]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R.LongLightBlub_R]
+[2025.08.14-06.56.47:299][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R]
+[2025.08.14-06.56.47:303][339]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R
+[2025.08.14-06.56.47:303][339]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightBlub_RD4CB69304B1690B9284074AB114589B4.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R.uasset'
+[2025.08.14-06.56.47:304][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting] ([1] browsable assets)...
+[2025.08.14-06.56.47:312][339]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting.LongLightFitting]
+[2025.08.14-06.56.47:312][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting]
+[2025.08.14-06.56.47:317][339]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting
+[2025.08.14-06.56.47:317][339]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightFittingB8230C364AAA0259D6917EBC2075000E.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting.uasset'
+[2025.08.14-06.56.47:318][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Material] ([1] browsable assets)...
+[2025.08.14-06.56.47:326][339]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Material.Material]
+[2025.08.14-06.56.47:326][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Material]
+[2025.08.14-06.56.47:330][339]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Material
+[2025.08.14-06.56.47:330][339]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Material4C0A61434930A1AE1C66118E58857B5F.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Material.uasset'
+[2025.08.14-06.56.47:345][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.554 ms (total: 878.473 ms)
+[2025.08.14-06.56.47:396][339]LogContentValidation: Display: Starting to validate 6 assets
+[2025.08.14-06.56.47:396][339]LogContentValidation: Enabled validators:
+[2025.08.14-06.56.47:396][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.56.47:396][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.56.47:396][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.56.47:396][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.56.47:396][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.56.47:396][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.56.47:396][339]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass Validating asset
+[2025.08.14-06.56.47:396][339]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight Validating asset
+[2025.08.14-06.56.47:396][339]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L Validating asset
+[2025.08.14-06.56.47:396][339]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R Validating asset
+[2025.08.14-06.56.47:396][339]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting Validating asset
+[2025.08.14-06.56.47:396][339]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Material Validating asset
+[2025.08.14-06.56.52:355][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.08.14-06.56.53:584][699]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.14-06.56.53:625][699]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/Glass.Glass
+	Asset Type: Material
+[2025.08.14-06.56.53:916][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.14-06.56.53:928][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.14-06.56.53:939][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.08.14-06.56.56:246][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.56.56:331][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.08.14-06.56.56:340][864]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-06.56.56:341][864]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_MapD78AA26E4AEBE3134B685AAAD62DD579.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-06.56.56:358][864]LogFileHelpers: Saving map 'Shannons_Map' took 0.077
+[2025.08.14-06.56.56:370][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.975 ms (total: 1.00 sec)
+[2025.08.14-06.56.56:408][864]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.56.56:408][864]LogContentValidation: Enabled validators:
+[2025.08.14-06.56.56:408][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.56.56:408][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.56.56:408][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.56.56:408][864]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.56.56:408][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.56.56:408][864]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.56.56:408][864]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-06.57.07:797][914]LogContentBrowser: Attempting asset rename: Material -> M_TempLightMat
+[2025.08.14-06.57.07:890][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.57.07:890][914]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting] ([1] browsable assets)...
+[2025.08.14-06.57.07:890][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting]
+[2025.08.14-06.57.07:894][914]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting
+[2025.08.14-06.57.07:894][914]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightFitting7017550A4F36A6E5FD219DA9EA0BC78C.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting.uasset'
+[2025.08.14-06.57.07:896][914]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_TempLightMat] ([1] browsable assets)...
+[2025.08.14-06.57.07:896][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_TempLightMat]
+[2025.08.14-06.57.07:899][914]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_TempLightMat
+[2025.08.14-06.57.07:899][914]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_TempLightMatBC81D8C9431108A7EDB4CCA9C9C27C86.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_TempLightMat.uasset'
+[2025.08.14-06.57.07:902][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.201 ms (total: 1.01 sec)
+[2025.08.14-06.57.07:928][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.14-06.57.07:942][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.08.14-06.57.07:954][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.08.14-06.57.08:035][914]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.14-06.57.08:035][914]LogContentValidation: Enabled validators:
+[2025.08.14-06.57.08:035][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.57.08:035][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.57.08:035][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.57.08:035][914]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.57.08:035][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.57.08:035][914]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.57.08:035][914]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting Validating asset
+[2025.08.14-06.57.08:035][914]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_TempLightMat Validating asset
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: ================================================
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Total job queries 383, among them cache hits 106 (27.68%), DDC hits 263 (68.67%), Duplicates 5 (1.31%)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Tracking 272 distinct input hashes that result in 234 distinct outputs (86.03%)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: RAM used: 154.97 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Average time worker was idle: 7096.87 s
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.12 s
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Job execution time: average 1.13 s, max 1.74 s
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 1.74
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Shader code size: average 6.965 KiB, min 4.219 KiB, max 11.043 KiB
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.21 s
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Average processing rate: 2.14 jobs/sec
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Total thread time: 5.238 s
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Total thread preprocess time: 7.062 s
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Percentage time preprocessing: 134.83%
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Effective parallelization: 1.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.63 sec, max 0.67 sec, min 0.60 sec)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.45 sec, max 0.50 sec, min 0.42 sec)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.26% of total time (compiled    3 times, average 0.63 sec, max 0.67 sec, min 0.60 sec)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.01% of total time (compiled    3 times, average 0.45 sec, max 0.50 sec, min 0.42 sec)
+[2025.08.14-06.57.08:423][931]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.96% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.85% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.92% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: === Material stats ===
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: Materials Translated:    168
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: Material Translation Only: 0.06 s (54%)
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2025.08.14-06.57.08:424][931]LogShaderCompilers: Display: ================================================
+[2025.08.14-06.57.09:610][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.57.09:689][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.08.14-06.57.09:698][ 47]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-06.57.09:699][ 47]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_Map40AC87B948F44D9FA166E0B817F01E26.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-06.57.09:718][ 47]LogFileHelpers: Saving map 'Shannons_Map' took 0.078
+[2025.08.14-06.57.09:729][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.568 ms (total: 1.13 sec)
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: Enabled validators:
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.57.09:758][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.57.09:758][ 47]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-06.57.17:666][425]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.57.17:704][425]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/ShortLightBlub_R.fbx]
+[2025.08.14-06.57.20:273][425]LogSlate: Window 'Import Content' being destroyed
+[2025.08.14-06.57.20:308][425]LogInterchangeEngine: [Pending] Importing
+[2025.08.14-06.57.20:363][426]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.57.20:391][427]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Display: Building static mesh ShortLightBlub_R (Required Memory Estimate: 0.027337 MB)...
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Reduce [0.00s]
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.08.14-06.57.20:525][429]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.57.20:525][429]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.57.20:525][429]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.57.20:525][429]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.57.20:525][429]LogStaticMesh: WritePages:
+[2025.08.14-06.57.20:525][429]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2025.08.14-06.57.20:525][429]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.57.20:525][429]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2025.08.14-06.57.20:525][429]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 496 bytes.
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.57.20:525][429]LogStaticMesh: Nanite build [0.00s]
+
+[2025.08.14-06.57.20:527][429]LogStaticMesh: Built static mesh [0.00s] /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_R.ShortLightBlub_R
+[2025.08.14-06.57.20:743][430]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/ShortLightBlub_R.fbx]
+[2025.08.14-06.57.20:744][430]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.08.14-06.57.20:744][430]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.08.14-06.57.20:744][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/ShortLight.fbx]
+[2025.08.14-06.57.20:849][433]LogMaterial: Display: Material /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/Glass.Glass needed to have new flag set bUsedWithNanite !
+[2025.08.14-06.57.20:916][434]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.57.20:941][436]LogStaticMesh: Display: Building static mesh ShortLight (Required Memory Estimate: 1.091547 MB)...
+[2025.08.14-06.57.20:944][436]LogStaticMesh: Adjacency [0.00s], tris: 708, UVs 1
+[2025.08.14-06.57.20:946][436]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.08.14-06.57.20:946][436]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.57.20:975][436]LogStaticMesh: Reduce [0.03s]
+[2025.08.14-06.57.20:983][436]LogStaticMesh: Fallback [0.01s], num tris: 600
+[2025.08.14-06.57.20:984][436]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.57.20:984][436]LogStaticMesh:   Input: 12 Clusters, 1464 Triangles and 1074 Vertices
+[2025.08.14-06.57.20:984][436]LogStaticMesh:   Output without splits: 12 Clusters, 1464 Triangles and 1126 Vertices
+[2025.08.14-06.57.20:984][436]LogStaticMesh:   Output with splits: 12 Clusters, 1464 Triangles and 1126 Vertices
+[2025.08.14-06.57.20:985][436]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.57.20:985][436]LogStaticMesh: WritePages:
+[2025.08.14-06.57.20:985][436]LogStaticMesh:   Root: GPU size: 16496 bytes. 1 Pages. 16496.000 bytes per page (50.342% utilization).
+[2025.08.14-06.57.20:985][436]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.57.20:985][436]LogStaticMesh:   Page data disk size: 12696 bytes. Fixup data size: 72 bytes.
+[2025.08.14-06.57.20:985][436]LogStaticMesh:   Total GPU size: 16496 bytes, Total disk size: 12768 bytes.
+[2025.08.14-06.57.20:985][436]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.57.20:985][436]LogStaticMesh: Nanite build [0.04s]
+
+[2025.08.14-06.57.20:988][436]LogStaticMesh: Built static mesh [0.05s] /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight.ShortLight
+[2025.08.14-06.57.20:992][436]LogStaticMesh: Warning: ShortLight has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.08.14-06.57.20:992][436]LogStaticMesh: Warning: ShortLight has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.08.14-06.57.21:215][437]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/ShortLight.fbx]
+[2025.08.14-06.57.21:215][437]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.08.14-06.57.21:215][437]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.08.14-06.57.21:215][437]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/ShortLighFitting.fbx]
+[2025.08.14-06.57.21:394][442]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.57.21:408][443]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.57.21:481][445]LogStaticMesh: Display: Building static mesh ShortLighFitting (Required Memory Estimate: 1.057274 MB)...
+[2025.08.14-06.57.21:485][445]LogStaticMesh: Adjacency [0.00s], tris: 684, UVs 1
+[2025.08.14-06.57.21:487][445]LogStaticMesh: Clustering [0.00s]. Ratio: 1.666667
+[2025.08.14-06.57.21:487][445]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.57.21:515][446]LogStaticMesh: Reduce [0.03s]
+[2025.08.14-06.57.21:527][446]LogStaticMesh: Fallback [0.01s], num tris: 552
+[2025.08.14-06.57.21:528][446]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.57.21:528][446]LogStaticMesh:   Input: 16 Clusters, 1439 Triangles and 1092 Vertices
+[2025.08.14-06.57.21:528][446]LogStaticMesh:   Output without splits: 16 Clusters, 1439 Triangles and 1129 Vertices
+[2025.08.14-06.57.21:528][446]LogStaticMesh:   Output with splits: 16 Clusters, 1439 Triangles and 1129 Vertices
+[2025.08.14-06.57.21:528][446]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.57.21:528][446]LogStaticMesh: WritePages:
+[2025.08.14-06.57.21:528][446]LogStaticMesh:   Root: GPU size: 16796 bytes. 1 Pages. 16796.000 bytes per page (51.257% utilization).
+[2025.08.14-06.57.21:528][446]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.57.21:528][446]LogStaticMesh:   Page data disk size: 13856 bytes. Fixup data size: 72 bytes.
+[2025.08.14-06.57.21:528][446]LogStaticMesh:   Total GPU size: 16796 bytes, Total disk size: 13928 bytes.
+[2025.08.14-06.57.21:528][446]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.57.21:528][446]LogStaticMesh: Nanite build [0.04s]
+
+[2025.08.14-06.57.21:532][446]LogStaticMesh: Built static mesh [0.05s] /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLighFitting.ShortLighFitting
+[2025.08.14-06.57.21:537][447]LogStaticMesh: Warning: ShortLighFitting has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.08.14-06.57.21:537][447]LogStaticMesh: Warning: ShortLighFitting has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.08.14-06.57.21:695][448]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/ShortLighFitting.fbx]
+[2025.08.14-06.57.21:695][448]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.08.14-06.57.21:695][448]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.08.14-06.57.21:695][448]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Shazz/Downloads/ShortLightBlub_L.fbx]
+[2025.08.14-06.57.21:740][450]LogMaterial: Display: Material /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/Material.Material needed to have new flag set bUsedWithNanite !
+[2025.08.14-06.57.21:841][453]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.57.21:857][455]LogStaticMesh: Display: Building static mesh ShortLightBlub_L (Required Memory Estimate: 0.027337 MB)...
+[2025.08.14-06.57.21:857][455]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2025.08.14-06.57.21:857][455]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.08.14-06.57.21:857][455]LogStaticMesh: Leaves [0.00s]
+[2025.08.14-06.57.21:857][455]LogStaticMesh: Reduce [0.00s]
+[2025.08.14-06.57.21:857][455]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.08.14-06.57.21:857][455]LogStaticMesh: ConstrainClusters:
+[2025.08.14-06.57.21:857][455]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.57.21:857][455]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.57.21:857][455]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2025.08.14-06.57.21:857][455]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.14-06.57.21:857][455]LogStaticMesh: WritePages:
+[2025.08.14-06.57.21:857][455]LogStaticMesh:   Root: GPU size: 304 bytes. 1 Pages. 304.000 bytes per page (0.928% utilization).
+[2025.08.14-06.57.21:857][455]LogStaticMesh:   Streaming: 0 bytes.
+[2025.08.14-06.57.21:858][455]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2025.08.14-06.57.21:858][455]LogStaticMesh:   Total GPU size: 304 bytes, Total disk size: 496 bytes.
+[2025.08.14-06.57.21:858][455]LogStaticMesh: Encode [0.00s]
+[2025.08.14-06.57.21:858][455]LogStaticMesh: Nanite build [0.00s]
+
+[2025.08.14-06.57.21:858][455]LogStaticMesh: Built static mesh [0.00s] /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_L.ShortLightBlub_L
+[2025.08.14-06.57.21:899][456]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Shazz/Downloads/ShortLightBlub_L.fbx]
+[2025.08.14-06.57.21:899][456]Interchange: Warning: [C:/Users/Shazz/Downloads/ShortLightBlub_R.fbx : 'ShortLightBlub_R', StaticMesh] No smoothing group information was found for this mesh 'Cylinder_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.57.21:899][456]Interchange: Warning: [C:/Users/Shazz/Downloads/ShortLight.fbx : 'ShortLight', StaticMesh] No smoothing group information was found for this mesh 'Cylinder' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.57.21:899][456]Interchange: Warning: [C:/Users/Shazz/Downloads/ShortLighFitting.fbx : 'ShortLighFitting', StaticMesh] No smoothing group information was found for this mesh 'Cylinder' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.57.21:899][456]Interchange: Warning: [C:/Users/Shazz/Downloads/ShortLightBlub_L.fbx : 'ShortLightBlub_L', StaticMesh] No smoothing group information was found for this mesh 'Cylinder_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.14-06.57.21:950][456]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.14-06.57.21:950][456]LogInterchangeEngine: [Success] Import Done
+[2025.08.14-06.57.24:099][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.08.14-06.57.25:238][611]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.14-06.57.25:281][611]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/Glass.Glass
+	Asset Type: Material
+[2025.08.14-06.57.25:452][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.08.14-06.57.25:463][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.08.14-06.57.25:474][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.08.14-06.57.25:487][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14608.837891
+[2025.08.14-06.57.25:818][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-06.57.25:818][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14609.158203, Update Interval: 348.229614
+[2025.08.14-06.57.26:714][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.57.26:794][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.08.14-06.57.26:803][714]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-06.57.26:804][714]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_MapBC59A31A4FF4DED4BCE71599D3C9D98F.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-06.57.26:824][714]LogFileHelpers: Saving map 'Shannons_Map' took 0.082
+[2025.08.14-06.57.26:836][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.375 ms (total: 1.25 sec)
+[2025.08.14-06.57.26:869][714]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.57.26:869][714]LogContentValidation: Enabled validators:
+[2025.08.14-06.57.26:869][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.57.26:869][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.57.26:869][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.57.26:869][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.57.26:869][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.57.26:869][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.57.26:870][714]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-06.57.42:362][130]LogContentBrowser: Attempting asset rename: Material -> M_ShortLight_Temp
+[2025.08.14-06.57.42:450][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.57.42:450][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/M_ShortLight_Temp] ([1] browsable assets)...
+[2025.08.14-06.57.42:499][130]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/M_ShortLight_Temp.M_ShortLight_Temp]
+[2025.08.14-06.57.42:499][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/M_ShortLight_Temp]
+[2025.08.14-06.57.42:503][130]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/M_ShortLight_Temp
+[2025.08.14-06.57.42:503][130]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_ShortLight_Temp80E9A324406C29507AFA5CAFF5D487CA.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/M_ShortLight_Temp.uasset'
+[2025.08.14-06.57.42:504][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.795 ms (total: 1.30 sec)
+[2025.08.14-06.57.42:526][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.14-06.57.42:539][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.08.14-06.57.42:552][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.08.14-06.57.42:618][130]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.57.42:618][130]LogContentValidation: Enabled validators:
+[2025.08.14-06.57.42:618][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.57.42:618][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.57.42:618][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.57.42:618][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.57.42:618][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.57.42:618][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.57.42:619][130]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/M_ShortLight_Temp Validating asset
+[2025.08.14-06.57.43:998][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.57.44:082][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.08.14-06.57.44:091][244]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-06.57.44:092][244]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_Map4D56773844893013FC9D99900763D3BF.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-06.57.44:110][244]LogFileHelpers: Saving map 'Shannons_Map' took 0.077
+[2025.08.14-06.57.44:122][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.869 ms (total: 1.43 sec)
+[2025.08.14-06.57.44:153][244]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.57.44:153][244]LogContentValidation: Enabled validators:
+[2025.08.14-06.57.44:153][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.57.44:153][244]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.57.44:153][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.57.44:153][244]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.57.44:153][244]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.57.44:153][244]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.57.44:153][244]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-06.57.53:587][964]LogContentBrowser: Attempting asset rename: M_TempLightMat -> M_TempLightMat
+[2025.08.14-06.58.02:169][795]LogContentBrowser: Attempting asset rename: M_TempLightMat -> M_ShortLight_Temp
+[2025.08.14-06.58.02:248][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.58.02:248][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting] ([1] browsable assets)...
+[2025.08.14-06.58.02:248][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting]
+[2025.08.14-06.58.02:252][795]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting
+[2025.08.14-06.58.02:253][795]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightFittingFCB346DD464D086835E2ADA2B761F535.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting.uasset'
+[2025.08.14-06.58.02:254][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_ShortLight_Temp] ([1] browsable assets)...
+[2025.08.14-06.58.02:254][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_ShortLight_Temp]
+[2025.08.14-06.58.02:256][795]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_ShortLight_Temp
+[2025.08.14-06.58.02:256][795]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_ShortLight_Temp8B96F09B4A12C207EF45DB95E6F8D371.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_ShortLight_Temp.uasset'
+[2025.08.14-06.58.02:257][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.507 ms (total: 1.44 sec)
+[2025.08.14-06.58.02:282][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.08.14-06.58.02:295][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.08.14-06.58.02:306][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.08.14-06.58.02:354][795]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.14-06.58.02:354][795]LogContentValidation: Enabled validators:
+[2025.08.14-06.58.02:354][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.58.02:354][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.58.02:354][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.58.02:354][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.58.02:354][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.58.02:354][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.58.02:354][795]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting Validating asset
+[2025.08.14-06.58.02:354][795]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_ShortLight_Temp Validating asset
+[2025.08.14-06.58.04:679][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.08.14-06.58.05:631][991]LogSlate: Window 'Save Content' being destroyed
+[2025.08.14-06.58.05:643][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.58.05:674][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L] ([1] browsable assets)...
+[2025.08.14-06.58.05:741][991]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L.LongLightBlub_L]
+[2025.08.14-06.58.05:741][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L]
+[2025.08.14-06.58.05:743][991]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L
+[2025.08.14-06.58.05:744][991]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightBlub_LB64FE06D4D6E1C2252ED50BBFCBA50C2.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L.uasset'
+[2025.08.14-06.58.05:745][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R] ([1] browsable assets)...
+[2025.08.14-06.58.05:753][991]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R.LongLightBlub_R]
+[2025.08.14-06.58.05:753][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R]
+[2025.08.14-06.58.05:756][991]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R
+[2025.08.14-06.58.05:756][991]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightBlub_R62D5C9D546B85B10FFA1178AE7C2440A.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R.uasset'
+[2025.08.14-06.58.05:757][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLighFitting] ([1] browsable assets)...
+[2025.08.14-06.58.05:766][991]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLighFitting.ShortLighFitting]
+[2025.08.14-06.58.05:766][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLighFitting]
+[2025.08.14-06.58.05:770][991]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLighFitting
+[2025.08.14-06.58.05:770][991]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/ShortLighFittingE850B89B42C7401AF887269D068C3FAB.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLighFitting.uasset'
+[2025.08.14-06.58.05:772][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight] ([1] browsable assets)...
+[2025.08.14-06.58.05:779][991]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight.ShortLight]
+[2025.08.14-06.58.05:779][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight]
+[2025.08.14-06.58.05:783][991]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight
+[2025.08.14-06.58.05:783][991]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/ShortLight8C5EDF8B4104D9E82D479095C2F30122.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight.uasset'
+[2025.08.14-06.58.05:785][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_L] ([1] browsable assets)...
+[2025.08.14-06.58.05:793][991]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_L.ShortLightBlub_L]
+[2025.08.14-06.58.05:793][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_L]
+[2025.08.14-06.58.05:796][991]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_L
+[2025.08.14-06.58.05:796][991]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/ShortLightBlub_LCF23A9EC411F9E5B4A211B98CC192622.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_L.uasset'
+[2025.08.14-06.58.05:798][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_R] ([1] browsable assets)...
+[2025.08.14-06.58.05:805][991]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_R.ShortLightBlub_R]
+[2025.08.14-06.58.05:805][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_R]
+[2025.08.14-06.58.05:808][991]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_R
+[2025.08.14-06.58.05:808][991]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/ShortLightBlub_RE6FA47DF495078594171BA8CFD8FF623.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_R.uasset'
+[2025.08.14-06.58.05:821][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.553 ms (total: 1.61 sec)
+[2025.08.14-06.58.05:858][991]LogContentValidation: Display: Starting to validate 6 assets
+[2025.08.14-06.58.05:858][991]LogContentValidation: Enabled validators:
+[2025.08.14-06.58.05:858][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.58.05:858][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.58.05:858][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.58.05:858][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.58.05:858][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.58.05:858][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.58.05:858][991]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_L Validating asset
+[2025.08.14-06.58.05:858][991]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightBlub_R Validating asset
+[2025.08.14-06.58.05:858][991]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLighFitting Validating asset
+[2025.08.14-06.58.05:858][991]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight Validating asset
+[2025.08.14-06.58.05:858][991]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_L Validating asset
+[2025.08.14-06.58.05:858][991]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLightBlub_R Validating asset
+[2025.08.14-06.58.19:297][995]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.14-06.58.19:307][995]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.14-06.58.19:315][995]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.14-06.58.19:330][996]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.14-06.58.27:610][802]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ShortLightRoofFixture
+[2025.08.14-06.58.27:623][802]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.14-06.58.28:824][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.58.28:857][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture] ([2] browsable assets)...
+[2025.08.14-06.58.28:857][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture]
+[2025.08.14-06.58.28:864][913]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture
+[2025.08.14-06.58.28:864][913]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_ShortLightRoofFixture27C8D51342B9200BC157CA9F35F368AF.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.uasset'
+[2025.08.14-06.58.28:879][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.868 ms (total: 1.67 sec)
+[2025.08.14-06.58.28:912][913]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.58.28:912][913]LogContentValidation: Enabled validators:
+[2025.08.14-06.58.28:912][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.58.28:912][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.58.28:912][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.58.28:912][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.58.28:912][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.58.28:912][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.58.28:912][913]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture Validating asset
+[2025.08.14-06.58.29:578][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture
+[2025.08.14-06.58.29:580][959]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.08.14-06.58.29:652][959]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.14-06.58.39:072][266]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.14-06.58.39:080][266]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.14-06.58.39:091][267]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.14-06.58.43:617][674]LogContentBrowser: Attempting asset rename: NewFolder -> TestInstances
+[2025.08.14-06.58.43:617][674]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.14-06.58.50:994][360]LogContentBrowser: Attempting asset rename: TestInstances -> TestMaterialInstances
+[2025.08.14-06.59.02:594][429]LogContentBrowser: Deferred new asset file creation: M_EmmisiveLights_Inst
+[2025.08.14-06.59.02:602][429]LogContentBrowser: Creating deferred item: M_EmmisiveLights_Inst
+[2025.08.14-06.59.02:615][430]LogContentBrowser: Renaming the item being created (Deferred Item: M_EmmisiveLights_Inst).
+[2025.08.14-06.59.03:752][524]LogContentBrowser: Attempting asset rename: M_EmmisiveLights_Inst -> M_EmmisiveLights_Inst
+[2025.08.14-06.59.03:753][524]LogContentBrowser: End creating deferred item M_EmmisiveLights_Inst
+[2025.08.14-06.59.04:907][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.59.04:947][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights_Inst] ([1] browsable assets)...
+[2025.08.14-06.59.04:996][612]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights_Inst.M_EmmisiveLights_Inst]
+[2025.08.14-06.59.04:996][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights_Inst]
+[2025.08.14-06.59.04:998][612]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights_Inst
+[2025.08.14-06.59.04:998][612]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_EmmisiveLights_Inst0421F6844B88FB2F80864E8759E93CCA.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights_Inst.uasset'
+[2025.08.14-06.59.05:009][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.827 ms (total: 1.77 sec)
+[2025.08.14-06.59.05:035][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.59.05:035][612]LogContentValidation: Enabled validators:
+[2025.08.14-06.59.05:035][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.59.05:035][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.59.05:035][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.59.05:035][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.59.05:035][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.59.05:035][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.59.05:035][612]AssetCheck: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights_Inst Validating asset
+[2025.08.14-06.59.12:027][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-06.59.12:027][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Inst] ([1] browsable assets)...
+[2025.08.14-06.59.12:027][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Inst]
+[2025.08.14-06.59.12:028][304]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Inst
+[2025.08.14-06.59.12:028][304]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_EmmisiveLights_Inst6E56D500432AF5B0871AAF87DDCAE4D9.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Inst.uasset'
+[2025.08.14-06.59.12:030][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.569 ms (total: 1.77 sec)
+[2025.08.14-06.59.12:116][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.08.14-06.59.12:138][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.08.14-06.59.12:161][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.14-06.59.12:188][304]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.08.14-06.59.12:188][304]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-06.59.12:188][304]LogContentValidation: Enabled validators:
+[2025.08.14-06.59.12:188][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-06.59.12:188][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-06.59.12:188][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-06.59.12:188][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-06.59.12:188][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-06.59.12:188][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-06.59.12:188][304]AssetCheck: /Game/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Inst Validating asset
+[2025.08.14-06.59.45:942][463]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.08.14-07.00.01:729][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.00.01:758][275]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture] ([2] browsable assets)...
+[2025.08.14-07.00.01:806][275]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture]
+[2025.08.14-07.00.01:806][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture]
+[2025.08.14-07.00.01:811][275]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture
+[2025.08.14-07.00.01:811][275]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_ShortLightRoofFixtureEA6FC9A343469722A204FF8D6432FA37.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.uasset'
+[2025.08.14-07.00.01:825][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.803 ms (total: 1.87 sec)
+[2025.08.14-07.00.01:861][275]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.00.01:861][275]LogContentValidation: Enabled validators:
+[2025.08.14-07.00.01:861][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.00.01:861][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.00.01:861][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.00.01:861][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.00.01:861][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.00.01:861][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.00.01:861][275]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture Validating asset
+[2025.08.14-07.00.02:209][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.08.14-07.00.04:757][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.00.04:757][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.00.04:760][384]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_0
+[2025.08.14-07.00.04:763][384]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_0
+[2025.08.14-07.00.05:237][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.14-07.00.05:270][400]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2025.08.14-07.00.05:275][400]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.00.05:275][400]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.00.05:279][400]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_1
+[2025.08.14-07.00.05:281][400]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_1
+[2025.08.14-07.00.27:489][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.14-07.00.27:506][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.14-07.00.27:518][561]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.08.14-07.00.27:518][561]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.08.14-07.00.27:520][561]LogPlayLevel: Creating play world package: /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map
+[2025.08.14-07.00.27:524][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003846s)
+[2025.08.14-07.00.27:524][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map to /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map.Shannons_Map (0.003903s)
+[2025.08.14-07.00.27:547][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.14-07.00.27:552][561]LogChaosDD: Creating Chaos Debug Draw Scene for world Shannons_Map
+[2025.08.14-07.00.27:554][561]LogPlayLevel: PIE: World Init took: (0.002548s)
+[2025.08.14-07.00.27:555][561]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.08.14-07.00.27:555][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.14-07.00.27:555][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.14-07.00.27:555][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.14-07.00.27:555][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.14-07.00.27:555][561]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.14-07.00.27:555][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.14-07.00.27:555][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.14-07.00.27:555][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.14-07.00.27:555][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.14-07.00.27:556][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.14-07.00.27:556][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.14-07.00.27:559][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.14-07.00.27:578][561]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.08.14-07.00.27:580][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.14-07.00.27:580][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.14-07.00.27:580][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.14-07.00.27:581][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.08.14-07.00.27:581][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.08.14-07.00.27:582][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.08.14-07.00.27:583][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.08.14-07.00.27:583][561]LogInit: FAudioDevice initialized with ID 2.
+[2025.08.14-07.00.27:583][561]LogAudio: Display: Audio Device (ID: 2) registered with world 'Shannons_Map'.
+[2025.08.14-07.00.27:583][561]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.14-07.00.27:592][561]LogLoad: Game class is 'GM_Coalesce_C'
+[2025.08.14-07.00.27:594][561]LogWorld: Bringing World /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map.Shannons_Map up for play (max tick rate 0) at 2025.08.14-19.00.27
+[2025.08.14-07.00.27:594][561]LogWorld: Bringing up level for play took: 0.001700
+[2025.08.14-07.00.27:598][561]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.08.14-07.00.27:634][561]PIE: Server logged in
+[2025.08.14-07.00.27:635][561]PIE: Play in editor total start time 0.133 seconds.
+[2025.08.14-07.00.31:795][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-07.00.31:796][812]LogWorld: BeginTearingDown for /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map
+[2025.08.14-07.00.31:796][812]LogWorld: UWorld::CleanupWorld for Shannons_Map, bSessionEnded=true, bCleanupResources=true
+[2025.08.14-07.00.31:796][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-07.00.31:802][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.14-07.00.31:810][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-07.00.31:828][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.14-07.00.31:829][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.14-07.00.31:830][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.14-07.00.31:833][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.14-07.00.31:837][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-07.00.31:841][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.14-07.00.31:963][813]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.08.14-07.00.46:508][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.00.46:612][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.14-07.00.46:626][566]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.00.46:626][566]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_MapB530F7144904383D21AE07B939C7007C.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.00.46:650][566]LogFileHelpers: Saving map 'Shannons_Map' took 0.101
+[2025.08.14-07.00.46:661][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.126 ms (total: 2.02 sec)
+[2025.08.14-07.00.46:692][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.00.46:692][566]LogContentValidation: Enabled validators:
+[2025.08.14-07.00.46:692][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.00.46:692][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.00.46:692][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.00.46:692][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.00.46:692][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.00.46:692][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.00.46:692][566]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.00.51:812][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.00.51:849][809]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture] ([2] browsable assets)...
+[2025.08.14-07.00.51:861][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture]
+[2025.08.14-07.00.51:861][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture]
+[2025.08.14-07.00.51:865][809]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture
+[2025.08.14-07.00.51:866][809]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_ShortLightRoofFixtureB64416144A2B3BF3D954918BBFFEAC3B.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.uasset'
+[2025.08.14-07.00.51:881][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.262 ms (total: 2.09 sec)
+[2025.08.14-07.00.51:914][809]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.00.51:914][809]LogContentValidation: Enabled validators:
+[2025.08.14-07.00.51:914][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.00.51:914][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.00.51:914][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.00.51:914][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.00.51:914][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.00.51:914][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.00.51:914][809]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture Validating asset
+[2025.08.14-07.01.01:836][304]LogMaterial: Display: Material /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.M_EmmisiveLights needed to have new flag set bUsedWithNanite !
+[2025.08.14-07.01.01:836][304]LogMaterial: Display: Material /Engine/Transient.M_EmmisiveLights needed to have new flag set bUsedWithNanite !
+[2025.08.14-07.01.01:899][304]MaterialEditorStats: Texture samplers: 0/16
+[2025.08.14-07.01.01:899][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-07.01.01:899][304]MaterialEditorStats: Shader Count: 0
+[2025.08.14-07.01.01:899][304]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.08.14-07.01.01:993][305]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.08.14-07.01.01:993][305]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.08.14-07.01.01:993][305]MaterialEditorStats: Nanite Compute Shader: 789 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.08.14-07.01.01:993][305]MaterialEditorStats: Texture samplers: 1/16
+[2025.08.14-07.01.01:993][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.08.14-07.01.01:993][305]MaterialEditorStats: Shader Count: 15
+[2025.08.14-07.01.01:993][305]MaterialEditorStats: Preshaders: 4  (5 param fetches, 10 ops)
+[2025.08.14-07.01.24:496][635]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.14-07.01.24:525][635]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.14-07.01.24:531][635]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.14-07.01.24:542][636]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.14-07.01.31:197][281]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LongLightFixture
+[2025.08.14-07.01.31:206][281]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.14-07.01.32:392][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.01.32:424][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture] ([2] browsable assets)...
+[2025.08.14-07.01.32:424][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture]
+[2025.08.14-07.01.32:427][389]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture
+[2025.08.14-07.01.32:427][389]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_LongLightFixture2FB675EE4D6D9687AC54AFBAE32A8888.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.uasset'
+[2025.08.14-07.01.32:442][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.285 ms (total: 2.14 sec)
+[2025.08.14-07.01.32:476][389]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.01.32:476][389]LogContentValidation: Enabled validators:
+[2025.08.14-07.01.32:476][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.01.32:476][389]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.01.32:476][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.01.32:476][389]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.01.32:476][389]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.01.32:476][389]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.01.32:476][389]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture Validating asset
+[2025.08.14-07.01.35:473][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.01.35:473][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.01.35:474][592]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_0
+[2025.08.14-07.01.35:474][592]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_0
+[2025.08.14-07.01.35:921][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.08.14-07.01.35:926][616]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.08.14-07.01.35:931][616]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.01.35:931][616]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.01.35:933][616]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_1
+[2025.08.14-07.01.35:933][616]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_1
+[2025.08.14-07.01.36:334][648]Cmd: TRANSACTION UNDO
+[2025.08.14-07.01.36:334][648]LogEditorTransaction: Undo Place Objects
+[2025.08.14-07.01.37:540][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture
+[2025.08.14-07.01.37:540][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.08.14-07.01.39:903][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.14-07.01.40:487][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.01.40:540][809]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture] ([2] browsable assets)...
+[2025.08.14-07.01.40:551][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture]
+[2025.08.14-07.01.40:551][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture]
+[2025.08.14-07.01.40:556][809]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture
+[2025.08.14-07.01.40:556][809]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_ShortLightRoofFixture910DB7704BF0DDA19BDF4CA91C054F80.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.uasset'
+[2025.08.14-07.01.40:567][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.292 ms (total: 2.22 sec)
+[2025.08.14-07.01.40:602][809]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.01.40:602][809]LogContentValidation: Enabled validators:
+[2025.08.14-07.01.40:602][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.01.40:602][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.01.40:602][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.01.40:602][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.01.40:603][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.01.40:603][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.01.40:603][809]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture Validating asset
+[2025.08.14-07.01.41:681][859]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.08.14-07.01.41:681][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-07.01.41:773][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.14-07.01.45:416][ 64]LogMaterialEditor: Saving and Compiling material M_EmmisiveLights
+[2025.08.14-07.01.45:419][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.01.45:450][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights] ([1] browsable assets)...
+[2025.08.14-07.01.45:450][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights]
+[2025.08.14-07.01.45:452][ 64]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights
+[2025.08.14-07.01.45:453][ 64]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_EmmisiveLights266F29EB48D6F3A64DE1758EC20B0797.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.uasset'
+[2025.08.14-07.01.45:464][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.744 ms (total: 2.26 sec)
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: Enabled validators:
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.01.45:497][ 64]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.01.45:497][ 64]AssetCheck: /Game/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights Validating asset
+[2025.08.14-07.01.55:584][554]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.08.14-07.02.04:248][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.14-07.02.04:837][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.02.04:923][995]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture] ([2] browsable assets)...
+[2025.08.14-07.02.04:930][995]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture]
+[2025.08.14-07.02.04:930][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture]
+[2025.08.14-07.02.04:935][995]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture
+[2025.08.14-07.02.04:936][995]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_LongLightFixtureB12403AF48526932BA7B58A49150A0E6.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.uasset'
+[2025.08.14-07.02.04:947][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.023 ms (total: 2.37 sec)
+[2025.08.14-07.02.04:983][995]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.02.04:983][995]LogContentValidation: Enabled validators:
+[2025.08.14-07.02.04:983][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.02.04:983][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.02.04:983][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.02.04:983][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.02.04:983][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.02.04:983][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.02.04:983][995]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture Validating asset
+[2025.08.14-07.02.12:948][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.14-07.02.13:379][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.02.13:421][382]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture] ([2] browsable assets)...
+[2025.08.14-07.02.13:433][382]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture]
+[2025.08.14-07.02.13:433][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture]
+[2025.08.14-07.02.13:437][382]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture
+[2025.08.14-07.02.13:438][382]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_LongLightFixture2A21902D4F9919B6617C2A9208F842A7.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.uasset'
+[2025.08.14-07.02.13:449][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.177 ms (total: 2.44 sec)
+[2025.08.14-07.02.13:486][382]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.02.13:486][382]LogContentValidation: Enabled validators:
+[2025.08.14-07.02.13:486][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.02.13:486][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.02.13:486][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.02.13:486][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.02.13:486][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.02.13:487][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.02.13:487][382]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture Validating asset
+[2025.08.14-07.02.18:614][668]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.02.18:614][668]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.02.18:615][668]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_2
+[2025.08.14-07.02.18:617][668]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_2
+[2025.08.14-07.02.19:030][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.08.14-07.02.19:045][687]LogEditorActor: Deleted 0 Actors (0.069 secs)
+[2025.08.14-07.02.19:050][687]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.02.19:050][687]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture_C
+[2025.08.14-07.02.19:054][687]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_3
+[2025.08.14-07.02.19:056][687]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture as actor: BP_ShortLightRoofFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_ShortLightRoofFixture_C_3
+[2025.08.14-07.02.19:563][718]Cmd: TRANSACTION UNDO
+[2025.08.14-07.02.19:563][718]LogEditorTransaction: Undo Place Objects
+[2025.08.14-07.02.32:229][587]LogContentBrowser: Attempting asset rename: M_ShortLight_Temp -> M_LongLight_Temp
+[2025.08.14-07.02.32:305][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.02.32:305][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting] ([1] browsable assets)...
+[2025.08.14-07.02.32:305][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting]
+[2025.08.14-07.02.32:309][587]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting
+[2025.08.14-07.02.32:311][587]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/LongLightFittingE05D5D03472D7CC72767FD8DC7A02A4C.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting.uasset'
+[2025.08.14-07.02.32:312][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp] ([1] browsable assets)...
+[2025.08.14-07.02.32:312][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp]
+[2025.08.14-07.02.32:314][587]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp
+[2025.08.14-07.02.32:314][587]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_LongLight_TempF8FF46D74B3F81B0AB4CCB8395C39B4D.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp.uasset'
+[2025.08.14-07.02.32:316][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.308 ms (total: 2.45 sec)
+[2025.08.14-07.02.32:351][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.08.14-07.02.32:378][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.08.14-07.02.32:401][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.14-07.02.32:441][587]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.14-07.02.32:442][587]LogContentValidation: Enabled validators:
+[2025.08.14-07.02.32:442][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.02.32:442][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.02.32:442][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.02.32:442][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.02.32:442][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.02.32:442][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.02.32:442][587]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLightFitting Validating asset
+[2025.08.14-07.02.32:442][587]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp Validating asset
+[2025.08.14-07.02.33:378][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.02.33:415][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp] ([1] browsable assets)...
+[2025.08.14-07.02.33:415][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp]
+[2025.08.14-07.02.33:418][648]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp
+[2025.08.14-07.02.33:419][648]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/M_LongLight_TempE3DA357B4E8721AE6B6B9D947CDBE567.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp.uasset'
+[2025.08.14-07.02.33:430][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.247 ms (total: 2.50 sec)
+[2025.08.14-07.02.33:461][648]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.02.33:461][648]LogContentValidation: Enabled validators:
+[2025.08.14-07.02.33:461][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.02.33:461][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.02.33:461][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.02.33:461][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.02.33:461][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.02.33:461][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.02.33:461][648]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/M_LongLight_Temp Validating asset
+[2025.08.14-07.02.34:461][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.02.34:461][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.02.34:463][697]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_2
+[2025.08.14-07.02.34:465][697]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_2
+[2025.08.14-07.02.34:854][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.14-07.02.34:856][721]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.08.14-07.02.34:861][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.02.34:861][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture_C
+[2025.08.14-07.02.34:864][721]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_3
+[2025.08.14-07.02.34:867][721]LogActorFactory: Actor Factory spawned Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture as actor: BP_LongLightFixture_C /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_LongLightFixture_C_3
+[2025.08.14-07.02.58:917][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.02.59:013][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.08.14-07.02.59:027][684]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.02.59:028][684]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_MapADFDF7154B3E461A34959BBABA136B6B.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.02.59:045][684]LogFileHelpers: Saving map 'Shannons_Map' took 0.096
+[2025.08.14-07.02.59:057][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.111 ms (total: 2.64 sec)
+[2025.08.14-07.02.59:089][684]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.02.59:089][684]LogContentValidation: Enabled validators:
+[2025.08.14-07.02.59:089][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.02.59:089][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.02.59:089][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.02.59:089][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.02.59:089][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.02.59:089][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.02.59:090][684]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.03.04:092][ 92]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.14-07.03.04:105][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.14-07.03.04:105][ 92]LogPlayLevel: Creating play world package: /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map
+[2025.08.14-07.03.04:108][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002537s)
+[2025.08.14-07.03.04:108][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map to /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map.Shannons_Map (0.002572s)
+[2025.08.14-07.03.04:129][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.14-07.03.04:130][ 92]LogChaosDD: Creating Chaos Debug Draw Scene for world Shannons_Map
+[2025.08.14-07.03.04:132][ 92]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2025.08.14-07.03.04:134][ 92]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.08.14-07.03.04:134][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.14-07.03.04:134][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.14-07.03.04:134][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.14-07.03.04:134][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.14-07.03.04:134][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.14-07.03.04:134][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.14-07.03.04:134][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.14-07.03.04:134][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.14-07.03.04:134][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.14-07.03.04:134][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.14-07.03.04:134][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.14-07.03.04:137][ 92]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.14-07.03.04:156][ 92]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.08.14-07.03.04:156][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.14-07.03.04:156][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.14-07.03.04:156][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.14-07.03.04:157][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.08.14-07.03.04:157][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.08.14-07.03.04:160][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.08.14-07.03.04:160][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.08.14-07.03.04:160][ 92]LogInit: FAudioDevice initialized with ID 3.
+[2025.08.14-07.03.04:160][ 92]LogAudio: Display: Audio Device (ID: 3) registered with world 'Shannons_Map'.
+[2025.08.14-07.03.04:160][ 92]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.14-07.03.04:162][ 92]LogLoad: Game class is 'GM_Coalesce_C'
+[2025.08.14-07.03.04:164][ 92]LogWorld: Bringing World /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map.Shannons_Map up for play (max tick rate 0) at 2025.08.14-19.03.04
+[2025.08.14-07.03.04:164][ 92]LogWorld: Bringing up level for play took: 0.001289
+[2025.08.14-07.03.04:167][ 92]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.08.14-07.03.04:169][ 92]PIE: Server logged in
+[2025.08.14-07.03.04:171][ 92]PIE: Play in editor total start time 0.068 seconds.
+[2025.08.14-07.03.19:112][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-07.03.19:112][668]LogWorld: BeginTearingDown for /Game/Individual_Work/Shannon_B/UEDPIE_0_Shannons_Map
+[2025.08.14-07.03.19:112][668]LogWorld: UWorld::CleanupWorld for Shannons_Map, bSessionEnded=true, bCleanupResources=true
+[2025.08.14-07.03.19:112][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-07.03.19:118][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.14-07.03.19:125][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-07.03.19:148][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-07.03.19:148][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.14-07.03.19:149][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.14-07.03.19:158][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.14-07.03.19:167][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.08.14-07.03.19:236][669]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.08.14-07.03.35:242][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.03.35:281][633]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture] ([2] browsable assets)...
+[2025.08.14-07.03.35:293][633]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture]
+[2025.08.14-07.03.35:293][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture]
+[2025.08.14-07.03.35:297][633]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture
+[2025.08.14-07.03.35:298][633]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_LongLightFixtureF84B0B884988E8FD4AEB32961AA6EC78.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.uasset'
+[2025.08.14-07.03.35:312][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.913 ms (total: 2.71 sec)
+[2025.08.14-07.03.35:342][633]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.03.35:342][633]LogContentValidation: Enabled validators:
+[2025.08.14-07.03.35:342][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.03.35:342][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.03.35:342][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.03.35:342][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.03.35:342][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.03.35:342][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.03.35:342][633]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture Validating asset
+[2025.08.14-07.03.37:359][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.08.14-07.03.39:031][742]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.14-07.03.39:082][742]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/LongLight.LongLight
+	Asset Type: StaticMesh
+[2025.08.14-07.03.39:417][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.14-07.03.39:442][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.14-07.03.39:462][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.14-07.03.40:916][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.03.41:008][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.08.14-07.03.41:019][816]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.03.41:021][816]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_Map4C2279A34B9311D94ADB9CBBC59225A3.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.03.41:039][816]LogFileHelpers: Saving map 'Shannons_Map' took 0.091
+[2025.08.14-07.03.41:051][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.380 ms (total: 2.85 sec)
+[2025.08.14-07.03.41:093][816]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.03.41:093][816]LogContentValidation: Enabled validators:
+[2025.08.14-07.03.41:093][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.03.41:093][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.03.41:093][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.03.41:093][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.03.41:093][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.03.41:093][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.03.41:093][816]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.03.42:081][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.14-07.03.42:849][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.03.42:895][905]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture] ([2] browsable assets)...
+[2025.08.14-07.03.42:909][905]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.BP_LongLightFixture]
+[2025.08.14-07.03.42:909][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture]
+[2025.08.14-07.03.42:913][905]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture
+[2025.08.14-07.03.42:913][905]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_LongLightFixtureBB4C6CCB4520AD2B326761A57BF90407.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture.uasset'
+[2025.08.14-07.03.42:925][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.564 ms (total: 2.92 sec)
+[2025.08.14-07.03.42:961][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.03.42:961][905]LogContentValidation: Enabled validators:
+[2025.08.14-07.03.42:961][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.03.42:961][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.03.42:961][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.03.42:961][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.03.42:961][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.03.42:961][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.03.42:961][905]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture Validating asset
+[2025.08.14-07.03.47:184][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture
+[2025.08.14-07.03.47:184][130]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.08.14-07.03.54:529][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.03.54:662][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.14-07.03.54:676][490]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.03.54:677][490]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_MapED57F7534AE4A662138F869FBD0478B8.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.03.54:696][490]LogFileHelpers: Saving map 'Shannons_Map' took 0.133
+[2025.08.14-07.03.54:727][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.184 ms (total: 3.12 sec)
+[2025.08.14-07.03.54:761][490]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.03.54:761][490]LogContentValidation: Enabled validators:
+[2025.08.14-07.03.54:761][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.03.54:761][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.03.54:761][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.03.54:761][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.03.54:761][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.03.54:761][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.03.54:761][490]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.03.56:051][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.03.56:089][543]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture] ([2] browsable assets)...
+[2025.08.14-07.03.56:097][543]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture]
+[2025.08.14-07.03.56:097][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture]
+[2025.08.14-07.03.56:100][543]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture
+[2025.08.14-07.03.56:101][543]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_ShortLightRoofFixture784E6B234459D4D2277A9F90AE8F3FA0.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.uasset'
+[2025.08.14-07.03.56:113][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.775 ms (total: 3.18 sec)
+[2025.08.14-07.03.56:142][543]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.03.56:142][543]LogContentValidation: Enabled validators:
+[2025.08.14-07.03.56:142][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.03.56:142][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.03.56:142][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.03.56:142][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.03.56:142][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.03.56:142][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.03.56:143][543]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture Validating asset
+[2025.08.14-07.03.58:206][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.14-07.03.59:679][666]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.14-07.03.59:726][666]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/ShortLight.ShortLight
+	Asset Type: StaticMesh
+[2025.08.14-07.04.00:078][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.08.14-07.04.00:102][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.14-07.04.00:124][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.14-07.04.00:948][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.14-07.04.01:469][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.04.01:514][720]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture] ([2] browsable assets)...
+[2025.08.14-07.04.01:521][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.BP_ShortLightRoofFixture]
+[2025.08.14-07.04.01:521][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture]
+[2025.08.14-07.04.01:526][720]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture
+[2025.08.14-07.04.01:526][720]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/BP_ShortLightRoofFixture5B33429E40A356B50E37BD9C27B233CE.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture.uasset'
+[2025.08.14-07.04.01:538][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.788 ms (total: 3.25 sec)
+[2025.08.14-07.04.01:567][720]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.04.01:567][720]LogContentValidation: Enabled validators:
+[2025.08.14-07.04.01:567][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.04.01:567][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.04.01:567][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.04.01:567][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.04.01:567][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.04.01:567][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.04.01:568][720]AssetCheck: /Game/Individual_Work/Shannon_B/TestModels/Lights/ShortLight_Roof/BP_ShortLightRoofFixture Validating asset
+[2025.08.14-07.04.02:925][796]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.08.14-07.04.02:925][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-07.04.03:014][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.08.14-07.04.03:724][836]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.14-07.04.03:724][836]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.08.14-07.04.03:724][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-07.04.03:817][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.14-07.04.04:237][859]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15007.686523
+[2025.08.14-07.04.04:521][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-07.04.04:521][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15007.958008, Update Interval: 349.200104
+[2025.08.14-07.04.05:763][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.04.05:853][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.14-07.04.05:864][973]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.04.05:864][973]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_Map8ECDB3D2469D251E6D5E7B9A078CC2A6.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.04.05:883][973]LogFileHelpers: Saving map 'Shannons_Map' took 0.090
+[2025.08.14-07.04.05:893][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.561 ms (total: 3.38 sec)
+[2025.08.14-07.04.05:925][973]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.04.05:925][973]LogContentValidation: Enabled validators:
+[2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.04.05:925][973]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
