@@ -3204,3 +3204,92 @@ Sampler Limit: 32
 [2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.14-07.04.05:925][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.14-07.04.05:925][973]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.04.59:096][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.14-07.04.59:096][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.14-07.04.59:098][690]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.StaticMeshActor_4
+[2025.08.14-07.04.59:098][690]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.StaticMeshActor_4
+[2025.08.14-07.05.00:695][815]Cmd: TRANSACTION UNDO
+[2025.08.14-07.05.00:695][815]LogEditorTransaction: Undo Create Actor
+[2025.08.14-07.05.01:311][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.14-07.05.03:814][ 24]Cmd: EDIT COPY
+[2025.08.14-07.05.04:034][ 44]Cmd: EDIT PASTE
+[2025.08.14-07.05.25:059][878]Cmd: EDIT COPY
+[2025.08.14-07.05.25:252][896]Cmd: EDIT PASTE
+[2025.08.14-07.05.33:643][646]Cmd: EDIT COPY
+[2025.08.14-07.05.33:835][664]Cmd: EDIT PASTE
+[2025.08.14-07.06.15:579][343]Cmd: EDIT COPY
+[2025.08.14-07.06.15:836][366]Cmd: EDIT PASTE
+[2025.08.14-07.06.22:948][968]Cmd: TRANSACTION UNDO
+[2025.08.14-07.06.22:948][968]LogEditorTransaction: Undo Scale Elements
+[2025.08.14-07.06.24:767][110]Cmd: EDIT COPY
+[2025.08.14-07.06.24:976][130]Cmd: EDIT PASTE
+[2025.08.14-07.07.11:157][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.07.11:260][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.08.14-07.07.11:278][941]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.07.11:278][941]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_MapFB6FD7AB4A55D4BCDA2D11AF6511D850.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.07.11:297][941]LogFileHelpers: Saving map 'Shannons_Map' took 0.104
+[2025.08.14-07.07.11:307][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.993 ms (total: 3.53 sec)
+[2025.08.14-07.07.11:347][941]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.07.11:348][941]LogContentValidation: Enabled validators:
+[2025.08.14-07.07.11:348][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.07.11:348][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.07.11:348][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.07.11:348][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.07.11:348][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.07.11:348][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.07.11:348][941]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.07.19:081][529]Cmd: TRANSACTION UNDO
+[2025.08.14-07.07.19:081][529]LogEditorTransaction: Undo Move Elements
+[2025.08.14-07.07.20:279][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.07.20:370][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.14-07.07.20:385][605]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.07.20:386][605]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_Map65A880D247CCB55D325B4A9F0996B0FE.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.07.20:406][605]LogFileHelpers: Saving map 'Shannons_Map' took 0.098
+[2025.08.14-07.07.20:418][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.593 ms (total: 3.67 sec)
+[2025.08.14-07.07.20:449][605]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.07.20:449][605]LogContentValidation: Enabled validators:
+[2025.08.14-07.07.20:449][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.07.20:449][605]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.07.20:449][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.07.20:449][605]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.07.20:449][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.07.20:449][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.07.20:449][605]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.07.26:323][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.07.26:414][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.14-07.07.26:427][ 89]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.07.26:427][ 89]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_Map061C3CC14B1A46C4ED89F39B97B440EE.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.07.26:447][ 89]LogFileHelpers: Saving map 'Shannons_Map' took 0.095
+[2025.08.14-07.07.26:456][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.240 ms (total: 3.80 sec)
+[2025.08.14-07.07.26:485][ 89]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.07.26:485][ 89]LogContentValidation: Enabled validators:
+[2025.08.14-07.07.26:485][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.07.26:485][ 89]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.07.26:485][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.07.26:485][ 89]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.07.26:485][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.07.26:486][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.07.26:486][ 89]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
+[2025.08.14-07.08.01:012][802]Cmd: TRANSACTION UNDO
+[2025.08.14-07.08.01:012][802]LogEditorTransaction: Undo Clicking on Actors
+[2025.08.14-07.08.01:330][808]Cmd: TRANSACTION UNDO
+[2025.08.14-07.08.01:330][808]LogEditorTransaction: Undo Attach actors
+[2025.08.14-07.08.01:339][808]LogSceneComponent: Error: Component 'SceneComponent /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.BP_Escalator_C_1.DefaultSceneRoot' has 'StaticMeshComponent /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0' in its AttachChildren array, however, 'StaticMeshComponent /Game/Individual_Work/Shannon_B/Shannons_Map.Shannons_Map:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0' believes it is not attached to anything
+[2025.08.14-07.10.23:870][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15387.323242
+[2025.08.14-07.10.24:115][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-07.10.24:116][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15387.558594, Update Interval: 359.058807
+[2025.08.14-07.10.24:778][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-07.10.24:877][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.14-07.10.24:895][ 28]LogSavePackage: Moving output files for package: /Game/Individual_Work/Shannon_B/Shannons_Map
+[2025.08.14-07.10.24:896][ 28]LogSavePackage: Moving '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Saved/Shannons_MapA588B577463B4B00CEF96A9031F68123.tmp' to '../../../../../../Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap'
+[2025.08.14-07.10.24:915][ 28]LogFileHelpers: Saving map 'Shannons_Map' took 0.102
+[2025.08.14-07.10.24:926][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.407 ms (total: 3.95 sec)
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: Enabled validators:
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-07.10.24:961][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-07.10.24:961][ 28]AssetCheck: /Game/Individual_Work/Shannon_B/Shannons_Map Validating asset
