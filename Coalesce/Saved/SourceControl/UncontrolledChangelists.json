@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/M_CeramicTiles.uasset",
+				"C:/Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/Shannons_Map.umap",
+				"C:/Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/M_ProeduralCeramicTiles_Test.uasset",
+				"C:/Users/Shazz/Documents/Unreal Projects/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/MI_ProeduralCeramicTiles_Test1.uasset",
 				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Harrys_Map.umap",
 				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Sublevels/Points.umap",
 				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Fluorescent_Inst.uasset",
