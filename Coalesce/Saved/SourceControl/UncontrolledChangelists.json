@@ -7,7 +7,33 @@
 			"files": [
 				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Harrys_Map.umap",
 				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Sublevels/Points.umap",
-				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Fluorescent_Inst.uasset"
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestMaterialInstances/M_EmmisiveLights_Fluorescent_Inst.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Escalator/pCube40.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Escalator/BP_Escalator.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Escalator/pCube33.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestMaterialInstances/MI_LongLights.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Lights/LongLight_Roof/BP_LongLightFixture_2.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Player/BP_Player.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Sublevels/Daylight.umap",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Escalator/pCylinder3.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestModels/Escalator/BP_BasicEscalator.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Smallroom_Floor.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/M_TestFloor.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Floor.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Smallroom_Ceiling.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Smallroom_Entrance_Wall.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Smallroom_Side_Wall.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Walkway_Floor_Curve.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Walkway_Floor_Straight.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Walkway_Tube_Curve.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Walkway_Tube_Straight.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/M_StandardImport.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/standardSurface1.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Shannon_B/TestShader/M_EmmisiveLights.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/SM_PlatformSmallFloor.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/SM_PIllar_Platform.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/SM_PlatformFloor.uasset",
+				"D:/local/hwa175/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/SM_PlatformNookFloor.uasset"
 			]
 		}
 	]
