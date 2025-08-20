@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-=======
-[0819/180021.357:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0819/180022.363:WARNING:storage_block-inl.h(146)] Failed data load.
-[0819/180214.702:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
->>>>>>> Stashed changes
+[0820/133647.688:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
