@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\local\\sgb80\\Coalesce\\DISC380_Coalesce\\Coalesce\\Intermediate\\Source\\Coalesce.Build.cs",
+		"D:\\local\\sgb80\\Coalesce\\DISC380_Coalesce\\Coalesce\\Intermediate\\Source\\Coalesce.Target.cs",
+		"D:\\local\\sgb80\\Coalesce\\DISC380_Coalesce\\Coalesce\\Intermediate\\Source\\CoalesceClient.Target.cs",
+		"D:\\local\\sgb80\\Coalesce\\DISC380_Coalesce\\Coalesce\\Intermediate\\Source\\CoalesceEditor.Target.cs",
+		"D:\\local\\sgb80\\Coalesce\\DISC380_Coalesce\\Coalesce\\Intermediate\\Source\\CoalesceServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

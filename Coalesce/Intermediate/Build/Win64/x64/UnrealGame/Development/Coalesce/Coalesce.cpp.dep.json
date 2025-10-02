@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\local\\sgb80\\coalesce\\disc380_coalesce\\coalesce\\intermediate\\source\\coalesce.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\local\\sgb80\\coalesce\\disc380_coalesce\\coalesce\\intermediate\\build\\win64\\x64\\coalesce\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\local\\sgb80\\coalesce\\disc380_coalesce\\coalesce\\intermediate\\build\\win64\\x64\\unrealgame\\development\\coalesce\\definitions.coalesce.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
