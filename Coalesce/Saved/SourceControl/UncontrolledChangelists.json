@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/local/spo98/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/New_Models/Platform/BP_Platform.uasset",
+				"D:/local/spo98/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/New_Models/Tunnelsandshit/BP_EscalatorPosters.uasset",
+				"D:/local/spo98/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Harrys_Map_Expanded.umap",
 				"C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Blocking/Torch/BP_Torch.uasset",
 				"C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Content/FInalBP/Lights/BP_ShortLightRoofFixture_OnDim.uasset",
 				"C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Content/FInalBP/Materials/Red_Flicker/MI_RedLightFlicker.uasset",
@@ -1438,7 +1441,6 @@
 				"C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Brushes/SM_FoodScrap_Bottle_FoliageType.uasset",
 				"C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Brushes/Models/SM_FoodScrap_BottleFlat_FoliageType.uasset",
 				"C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Brushes/Models/standardSurface3.uasset",
-				"D:/local/spo98/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/New_Models/Platform/BP_Platform.uasset",
 				"C:/Users/hwa175/Coalesce or somehting/DISC380_Coalesce/Coalesce/Content/Week6Demo/UserTest_23_09.umap",
 				"C:/Users/hwa175/Coalesce or somehting/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Sublevels/PlatformLights.umap",
 				"C:/Users/hwa175/Coalesce or somehting/DISC380_Coalesce/Coalesce/Content/Player/BP_Player.uasset",
