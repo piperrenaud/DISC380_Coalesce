@@ -42017,3 +42017,34 @@ FPackageName: Skipped package /Game/Individual_Work/Shannon_B/Shaders/EmissiveLi
 [2025.10.15-02.36.16:293][229]AssetCheck: /Game/Individual_Work/James/Assets/Fliers/SM_FlierGroup6 Validating asset
 [2025.10.15-02.36.16:293][229]AssetCheck: /Game/Individual_Work/James/Assets/Fliers/SM_FlierGroup4 Validating asset
 [2025.10.15-02.36.16:293][229]AssetCheck: /Game/Individual_Work/James/Assets/Fliers/SM_FlierGroup5 Validating asset
+[2025.10.15-02.36.32:073][338]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.15-02.36.41:588][ 31]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.36.43:785][190]LogStreaming: Display: FlushAsyncLoading(569): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.36.51:562][699]Cmd: MODE ROTGRID=0
+[2025.10.15-02.37.19:950][650]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.15-02.38.37:485][654]Cmd: MODE ROTGRID=1
+[2025.10.15-02.38.43:339][ 15]Cmd: MODE ROTGRID=0
+[2025.10.15-02.38.47:893][294]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.38.51:319][490]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.38.54:233][650]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.39.02:442][146]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.39.08:329][537]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.39.10:407][661]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-02.39.50:004][129]Cmd: TRANSACTION UNDO
+[2025.10.15-02.39.50:004][129]LogEditorTransaction: Undo Edit Decal Material
+[2025.10.15-02.39.56:629][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.15-02.39.56:636][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-02.39.56:674][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.15-02.39.56:694][522]LogSavePackage: Moving output files for package: /Game/Individual_Work/Harry/Sublevels/PlatformLights
+[2025.10.15-02.39.56:695][522]LogSavePackage: Moving 'D:/local/hwa175/Latest/DISC380_Coalesce/Coalesce/Saved/PlatformLights3CCC6B8D4DDDF60B27B8E88D43D0A446.tmp' to 'D:/local/hwa175/Latest/DISC380_Coalesce/Coalesce/Content/Individual_Work/Harry/Sublevels/PlatformLights.umap'
+[2025.10.15-02.39.56:703][522]LogFileHelpers: Saving map 'PlatformLights' took 0.045
+[2025.10.15-02.39.56:714][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.587 ms (total: 1.49 sec)
+[2025.10.15-02.39.56:743][522]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-02.39.56:743][522]LogContentValidation: Enabled validators:
+[2025.10.15-02.39.56:743][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-02.39.56:743][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-02.39.56:743][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-02.39.56:743][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-02.39.56:743][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-02.39.56:743][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-02.39.56:743][522]AssetCheck: /Game/Individual_Work/Harry/Sublevels/PlatformLights Validating asset
