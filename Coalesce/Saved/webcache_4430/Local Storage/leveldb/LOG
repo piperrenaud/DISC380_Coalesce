@@ -1,3 +1,2 @@
-2025/10/15-22:15:39.307 4628 Reusing MANIFEST C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/10/15-22:15:39.315 4628 Recovering log #3
-2025/10/15-22:15:39.315 4628 Reusing old log C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/10/17-00:02:47.086 3b0c Creating DB C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/10/17-00:02:47.099 3b0c Reusing MANIFEST C:/Users/wardh/Desktop/Coalesce 5.5.4/DISC380_Coalesce/Coalesce/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
